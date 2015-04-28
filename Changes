@@ -1,5 +1,12 @@
 Revision history for App-IndonesianHolidayUtils
 
+0.02    2015-04-28 (PERLANCAR)
+
+	- No functional changes.
+
+	- [dzil] Fix inserting list of execs into POD.
+
+
 0.01     2015-04-28 (PERLANCAR)
 
          - First release, split from Calendar-Indonesian-Holiday dist to reduce
