@@ -1,0 +1,6 @@
+Revision history for App-IndonesianHolidayUtils
+
+0.01     2015-04-28 (PERLANCAR) (unreleased)
+
+         - First release, split from Calendar-Indonesian-Holiday dist to reduce
+           dependencies in that dist.
