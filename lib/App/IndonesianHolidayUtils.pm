@@ -12,7 +12,7 @@ use 5.010001;
 
 This distribution contains several CLI's related to Indonesian holidays:
 
-# EXECS_LIST
+# INSERT_EXECS_LIST
 
 
 =head1 SEE ALSO
