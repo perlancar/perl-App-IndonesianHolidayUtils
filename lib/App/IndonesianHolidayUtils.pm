@@ -1,4 +1,4 @@
-package App::ListIdHolidays;
+package App::IndonesianHolidayUtils;
 
 use 5.010001;
 
