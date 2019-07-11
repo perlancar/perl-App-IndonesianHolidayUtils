@@ -1,11 +1,11 @@
-0.04    2016-01-18 (PERLANCAR)
+0.04    2016-01-18  Released-By: PERLANCAR
 
         - No functional changes.
 
         - [build] Rebuild to fix POD section ordering.
 
 
-0.03    2015-09-03 (PERLANCAR)
+0.03    2015-09-03  Released-By: PERLANCAR
 
 	- No functional changes.
 
@@ -14,14 +14,14 @@
 	  requirement.
 
 
-0.02    2015-04-28 (PERLANCAR)
+0.02    2015-04-28  Released-By: PERLANCAR
 
 	- No functional changes.
 
 	- [dzil] Fix inserting list of execs into POD.
 
 
-0.01     2015-04-28 (PERLANCAR)
+0.01     2015-04-28  Released-By: PERLANCAR
 
          - First release, split from Calendar-Indonesian-Holiday dist to reduce
            dependencies in that dist.
