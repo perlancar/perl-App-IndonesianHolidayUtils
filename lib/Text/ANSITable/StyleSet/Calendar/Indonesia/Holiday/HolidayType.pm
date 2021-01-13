@@ -1,6 +1,8 @@
 package Text::ANSITable::StyleSet::Calendar::Indonesia::Holiday::HolidayType;
 
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 use 5.010;

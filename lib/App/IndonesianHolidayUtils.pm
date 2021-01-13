@@ -2,7 +2,9 @@ package App::IndonesianHolidayUtils;
 
 use 5.010001;
 
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 1;
