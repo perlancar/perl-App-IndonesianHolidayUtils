@@ -1,3 +1,10 @@
+0.064   2021-07-24  Released-By: PERLANCAR; Urgency: low
+
+        - No functional changes.
+
+        - [build] Rebuild to prettify usages.
+
+
 0.063   2021-03-16  Released-By: PERLANCAR; Urgency: high
 
         - Merge releases 0.062 and 0.062.1.
